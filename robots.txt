@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://saventureinfratech234-boop.github.io/amenties/sitemap.xml
